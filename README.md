@@ -2,7 +2,7 @@
 
 **A frosted glass Discord theme for BetterDiscord and Vencord.**
 
-[![Release](https://img.shields.io/github/v/release/colin-chang/NomadNexus?label=release&color=4c8fd6)](https://github.com/colin-chang/NomadNexus/releases/latest)
+[![Release](https://img.shields.io/github/v/release/a-nomad-studio/nomad-discord-theme?label=release&color=4c8fd6)](https://github.com/a-nomad-studio/nomad-discord-theme/releases/latest)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE)
 [![BetterDiscord](https://img.shields.io/badge/BetterDiscord-%E2%9C%93-5865f2)](https://betterdiscord.app)
 [![Vencord](https://img.shields.io/badge/Vencord-%E2%9C%93-5865f2)](https://vencord.dev)
@@ -31,7 +31,7 @@
 
 ### BetterDiscord
 
-1. Download [`NomadNexus-BetterDiscord.theme.css`](https://github.com/colin-chang/NomadNexus/releases/latest/download/NomadNexus-BetterDiscord.theme.css)
+1. Download [`NomadNexus-BetterDiscord.theme.css`](https://github.com/a-nomad-studio/nomad-discord-theme/releases/latest/download/NomadNexus-BetterDiscord.theme.css)
 2. Place it in your BetterDiscord themes folder:
    - **Windows** — `%appdata%\BetterDiscord\themes`
    - **macOS** — `~/Library/Application Support/BetterDiscord/themes`
@@ -45,12 +45,12 @@
 In **Settings → Vencord → Themes**, add the following URL:
 
 ```text
-https://cdn.jsdelivr.net/gh/colin-chang/NomadNexus@1.0.2/NomadNexus-Vencord.css
+https://cdn.jsdelivr.net/gh/a-nomad-studio/nomad-discord-theme@1.0.2/NomadNexus-Vencord.css
 ```
 
 #### Option B — Local file
 
-1. Download [`NomadNexus-Vencord.css`](https://github.com/colin-chang/NomadNexus/releases/latest/download/NomadNexus-Vencord.css)
+1. Download [`NomadNexus-Vencord.css`](https://github.com/a-nomad-studio/nomad-discord-theme/releases/latest/download/NomadNexus-Vencord.css)
 2. Place it in your Vencord themes folder:
    - **Windows** — `%appdata%\Vencord\themes`
    - **macOS** — `~/Library/Application Support/Vencord/themes`
@@ -178,7 +178,7 @@ Each Discord theme variant (Light / Ash / Dark / Onyx) has its own shading varia
 }
 ```
 
-> **Note** — Images used as default wallpapers are sourced from the internet. If any image infringes copyright, please [open an issue](https://github.com/colin-chang/NomadNexus/issues) to have it removed.
+> **Note** — Images used as default wallpapers are sourced from the internet. If any image infringes copyright, please [open an issue](https://github.com/a-nomad-studio/nomad-discord-theme/issues) to have it removed.
 
 ---
 
@@ -207,7 +207,7 @@ npm version <patch|minor|major>
 git push origin master --follow-tags
 ```
 
-GitHub Actions will automatically compile the project and publish a new [GitHub Release](https://github.com/colin-chang/NomadNexus/releases) with the compiled CSS assets attached.
+GitHub Actions will automatically compile the project and publish a new [GitHub Release](https://github.com/a-nomad-studio/nomad-discord-theme/releases) with the compiled CSS assets attached.
 
 ---
 

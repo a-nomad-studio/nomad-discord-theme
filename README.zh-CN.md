@@ -2,7 +2,7 @@
 
 **一款面向 BetterDiscord 和 Vencord 的毛玻璃风格 Discord 主题。**
 
-[![Release](https://img.shields.io/github/v/release/colin-chang/NomadNexus?label=release&color=4c8fd6)](https://github.com/colin-chang/NomadNexus/releases/latest)
+[![Release](https://img.shields.io/github/v/release/a-nomad-studio/nomad-discord-theme?label=release&color=4c8fd6)](https://github.com/a-nomad-studio/nomad-discord-theme/releases/latest)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE)
 [![BetterDiscord](https://img.shields.io/badge/BetterDiscord-%E2%9C%93-5865f2)](https://betterdiscord.app)
 [![Vencord](https://img.shields.io/badge/Vencord-%E2%9C%93-5865f2)](https://vencord.dev)
@@ -31,7 +31,7 @@
 
 ### BetterDiscord
 
-1. 下载 [`NomadNexus-BetterDiscord.theme.css`](https://github.com/colin-chang/NomadNexus/releases/latest/download/NomadNexus-BetterDiscord.theme.css)
+1. 下载 [`NomadNexus-BetterDiscord.theme.css`](https://github.com/a-nomad-studio/nomad-discord-theme/releases/latest/download/NomadNexus-BetterDiscord.theme.css)
 2. 将文件放入 BetterDiscord 主题目录：
    - **Windows** — `%appdata%\BetterDiscord\themes`
    - **macOS** — `~/Library/Application Support/BetterDiscord/themes`
@@ -45,12 +45,12 @@
 在 **设置 → Vencord → 主题** 中，添加以下 URL：
 
 ```text
-https://cdn.jsdelivr.net/gh/colin-chang/NomadNexus@1.0.2/NomadNexus-Vencord.css
+https://cdn.jsdelivr.net/gh/a-nomad-studio/nomad-discord-theme@1.0.2/NomadNexus-Vencord.css
 ```
 
 #### 方式二 — 本地文件
 
-1. 下载 [`NomadNexus-Vencord.css`](https://github.com/colin-chang/NomadNexus/releases/latest/download/NomadNexus-Vencord.css)
+1. 下载 [`NomadNexus-Vencord.css`](https://github.com/a-nomad-studio/nomad-discord-theme/releases/latest/download/NomadNexus-Vencord.css)
 2. 将文件放入 Vencord 主题目录：
    - **Windows** — `%appdata%\Vencord\themes`
    - **macOS** — `~/Library/Application Support/Vencord/themes`
@@ -178,7 +178,7 @@ fc-cache -fv
 }
 ```
 
-> **注意** — 主题默认壁纸图片来源于互联网。若存在版权问题，请[提交 Issue](https://github.com/colin-chang/NomadNexus/issues) 告知，将立即处理。
+> **注意** — 主题默认壁纸图片来源于互联网。若存在版权问题，请[提交 Issue](https://github.com/a-nomad-studio/nomad-discord-theme/issues) 告知，将立即处理。
 
 ---
 
@@ -207,7 +207,7 @@ npm version <patch|minor|major>
 git push origin master --follow-tags
 ```
 
-GitHub Actions 将自动编译项目并发布新的 [GitHub Release](https://github.com/colin-chang/NomadNexus/releases)，附带编译好的 CSS 文件。
+GitHub Actions 将自动编译项目并发布新的 [GitHub Release](https://github.com/a-nomad-studio/nomad-discord-theme/releases)，附带编译好的 CSS 文件。
 
 ---
 

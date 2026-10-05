@@ -51,7 +51,7 @@ if (indexContent !== indexUpdated) {
 }
 
 // 更新 README 中的 jsDelivr CDN 版本号
-const cdnPattern = /(cdn\.jsdelivr\.net\/gh\/colin-chang\/NomadNexus@)\d+\.\d+\.\d+/g;
+const cdnPattern = /(cdn\.jsdelivr\.net\/gh\/a-nomad-studio\/nomad-discord-theme@)\d+\.\d+\.\d+/g;
 for (const file of ['README.md', 'README.zh-CN.md']) {
   const filePath = path.resolve(root, file);
   const content = fs.readFileSync(filePath, 'utf8');

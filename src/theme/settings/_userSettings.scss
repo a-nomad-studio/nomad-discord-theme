@@ -244,7 +244,7 @@
 
 // VOICE & VIDEO
 #{c(userSettings voice notchesContainer)} {
-  mask-image: url(https://cdn.jsdelivr.net/gh/colin-chang/NomadNexus@#{$version}/assets/icons/pill.svg);
+  mask-image: url(https://cdn.jsdelivr.net/gh/a-nomad-studio/nomad-discord-theme@#{$version}/assets/icons/pill.svg);
   background: cv('color.main') !important; // inline
 }
 :is(#{c(main themeLight)}, #{c(main themeDark)}) {
